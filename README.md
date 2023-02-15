@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Feel honored to know you are reading me.
 
 🛡️ I am a Security Researcher working on Incident Response, Digital Forensics, Threat Intelligence and Malware Analysis! <br />
 🧑‍🏫 Sometimes I share my knowledge on the education field as University teacher <br />
-🌱 I have been learning since... I was born, pursuing the wisdom is something which never ends <br />
+🌱 I have been learning since I was... born, as pursuing wisdom is a lifelong journey <br />
 🏃🏽 Sports lover 🚴🏊 <br />
 🎸 Music player 🎹 <br />
 🎶 Lover of fife, singer of Songs... but that comes from Freedie Mercury <br />
