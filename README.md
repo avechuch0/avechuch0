@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Feel honored to know you are reading me.
 🌱 I have been learning since I was... born, as pursuing wisdom is a lifelong journey <br />
 🏃🏽 Sports lover 🚴🏊 <br />
 🎸 Music player 🎹 <br />
-🎶 Lover of life, singer of Songs... but that comes from Freedie Mercury <br />
+🎶 Lover of life, singer of songs... but that comes from Freedie Mercury <br />
 📫 You can reach me on Twitter: [@avechuch0](https://twitter.com/avechuch0) <br />
 
 <!--
