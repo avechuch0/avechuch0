@@ -2,7 +2,7 @@
 That's lame...
 Just kidding 🤡
 
-Welcome to my GitHub profile! Feel honored to know you are reading me.
+Welcome to my GitHub profile! Glad to know you are reading me.
 
 🛡️ I am a Security Researcher working on Incident Response, Digital Forensics, Threat Intelligence and Malware Analysis! <br />
 🧑‍🏫 Sometimes I share my knowledge on the education field as University teacher <br />
