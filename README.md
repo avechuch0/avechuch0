@@ -1,5 +1,5 @@
-### Hello friend 👋 Hello, friend? 
-That's lame...
+### Hello friend 👋 
+Hello, friend? That's lame...
 Just kidding 🤡
 
 Welcome to my GitHub profile! Glad to know you are reading me.
